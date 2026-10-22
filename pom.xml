@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.core</groupId>
 	<artifactId>order-common</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<name>order-common</name>
 	<description>Common utilities, exceptions, response models, and idempotency abstractions</description>
